@@ -1,6 +1,7 @@
 # COBOL_project
 
 Manual para o programa:
+
 O Programa pede ao utilizador inserir informação sobre o empregado:
 -número de identificação
 -nome
