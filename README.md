@@ -1,14 +1,14 @@
 # COBOL_project
 
-Manual para o programa:
+##Manual para o programa:
 
 O Programa pede ao utilizador inserir informação sobre o empregado:
--número de identificação
--nome
--género
--salário
--data de entrada
--número de departamento
+*número de identificação
+*nome
+*género
+*salário
+*data de entrada
+*número de departamento
 O programa permite alterar os dados e também permite apagar o empregado.
  (precisa de inserir o número de identificação).
 O programa usa um ficheiro relativo para guardar informação sobre todos os empregados registados.
